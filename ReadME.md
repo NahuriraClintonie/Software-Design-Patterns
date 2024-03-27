@@ -1,8 +1,7 @@
-# Kimwanyi SACCO - Web Application
+# Integrated Health Finance Management System - Web Application
 This project is to help bootstrap a JSF application.
 
 ## Getting Started
-- Fork the project and get your own copy.
 - Clone the project to your local machine.
 - Ensure you have the following installed:
     - Java 8+
